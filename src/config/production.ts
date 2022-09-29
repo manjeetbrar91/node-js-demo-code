@@ -11,7 +11,7 @@ export const production =
   },
 
   aws: {
-    accessKeyId: "AKIAXXNJMY76MTAJO23R",
+    accessKeyId: "xxxxxxx",
     secretAccessKey: "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",
     bucketName: "euel-test"
   },

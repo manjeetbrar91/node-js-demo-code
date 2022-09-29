@@ -12,7 +12,7 @@ export const development =
   },
   
   aws: {
-    accessKeyId: "AKIAXXNJMY76MTAJO23R",
+    accessKeyId: "xxxxxxxxxx",
     secretAccessKey: "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",
     bucketName: "euel-test"
   },
